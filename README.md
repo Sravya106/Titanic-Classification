@@ -1,8 +1,8 @@
 # Titanic-Classification
 Machine Learning From Disaster
-# Titanic Classification
 
-![Titanic](https://imgur.com/your-image-url)
+
+
 
 **Best Preforming model** : SVM with kernel set to linear, accuracy score: 100 and mean squared error: 0.
 
